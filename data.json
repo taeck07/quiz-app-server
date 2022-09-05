@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+      "difficulty": "easy",
+      "amount": 10,
+      "duration": 16,
+      "answer": 2,
+      "id": 1
+    },
+    {
+      "difficulty": "medium",
+      "amount": 10,
+      "duration": 10,
+      "answer": 5,
+      "id": 2
+    },
+    {
+      "difficulty": "hard",
+      "amount": 10,
+      "duration": 6,
+      "answer": 7,
+      "id": 3
+    },
+    {
+      "difficulty": "hard",
+      "amount": 10,
+      "duration": 51,
+      "answer": 5,
+      "id": 4
+    },
+    {
+      "difficulty": "hard",
+      "amount": 10,
+      "duration": 9,
+      "answer": 8,
+      "id": 5
+    },
+    {
+      "difficulty": "medium",
+      "amount": 10,
+      "duration": 34,
+      "answer": 1,
+      "id": 6
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 6,
+      "answer": 0,
+      "category": 9,
+      "id": 7
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 4,
+      "answer": 5,
+      "category": 9,
+      "id": 8
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 4,
+      "answer": 2,
+      "category": 9,
+      "id": 9
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 4,
+      "answer": 1,
+      "category": 9,
+      "id": 10
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 3,
+      "answer": 1,
+      "category": 9,
+      "id": 11
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 3,
+      "answer": 0,
+      "category": 9,
+      "id": 12
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 5,
+      "answer": 1,
+      "category": 9,
+      "id": 13
+    },
+    {
+      "difficulty": "easy",
+      "amount": 5,
+      "duration": 6,
+      "answer": 1,
+      "category": 9,
+      "id": 14
+    },
+    {
+      "difficulty": "hard",
+      "amount": 5,
+      "duration": 4,
+      "answer": 2,
+      "category": 21,
+      "id": 15
+    }
+  ]
+}

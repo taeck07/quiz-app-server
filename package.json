@@ -1,0 +1,12 @@
+{
+  "name": "quiz-app-server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "api": "node servser.js"
+  }
+}
