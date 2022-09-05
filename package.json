@@ -2,7 +2,7 @@
   "name": "quiz-app-server",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gilded-palmier-db12e1.netlify.app",
+  "homepage": "https://stirring-cocada-863607.netlify.app/",
   "dependencies": {
     "fs": "^0.0.1-security",
     "json-server": "^0.17.0"
